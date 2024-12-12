@@ -6,7 +6,7 @@
   "scripts": {
     "build": "tsc"
   },
-  "type": "module",
+  "type": "commonjs",
   "dependencies": {},
   "devDependencies": {
     "typescript": "^5.5.3"
